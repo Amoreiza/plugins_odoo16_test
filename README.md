@@ -9,3 +9,4 @@
 # roompillow-addons
 # linkexpress-addons
 # cosec-addons
+# cosec-addons
