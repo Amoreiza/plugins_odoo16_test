@@ -10,3 +10,4 @@
 # linkexpress-addons
 # cosec-addons
 # cosec-addons
+# bluepos-addons
