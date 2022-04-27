@@ -11,3 +11,4 @@
 # cosec-addons
 # cosec-addons
 # bluepos-addons
+# bluepos-addons
