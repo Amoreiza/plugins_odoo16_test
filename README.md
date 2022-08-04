@@ -19,3 +19,4 @@
 # mazak-addons
 # ntsp-addons
 # ntsp-addons
+# weticket-addons
