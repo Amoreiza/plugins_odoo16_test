@@ -21,3 +21,4 @@
 # ntsp-addons
 # weticket-addons
 # weticket-addons
+# wecomplain-addons
