@@ -23,3 +23,4 @@
 # weticket-addons
 # wecomplain-addons
 # angkasa-addons
+# nstp-addons
