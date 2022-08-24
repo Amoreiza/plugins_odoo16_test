@@ -24,3 +24,4 @@
 # wecomplain-addons
 # angkasa-addons
 # nstp-addons
+# phisoft-addons
