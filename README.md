@@ -27,3 +27,4 @@
 # phisoft-addons
 # apamaumakan-addons
 # apamaumakan-addons
+# luluhq-addons
