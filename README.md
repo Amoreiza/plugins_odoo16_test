@@ -29,3 +29,4 @@
 # apamaumakan-addons
 # luluhq-addons
 # quarry-addons
+# odoo_test
