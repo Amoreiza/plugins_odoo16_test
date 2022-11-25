@@ -30,3 +30,4 @@
 # luluhq-addons
 # quarry-addons
 # odoo_test
+# odoo_test
