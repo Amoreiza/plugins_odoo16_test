@@ -31,3 +31,4 @@
 # quarry-addons
 # odoo_test
 # odoo_test
+# didi-addons
