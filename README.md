@@ -32,3 +32,4 @@
 # odoo_test
 # odoo_test
 # didi-addons
+# didipos2-addons
