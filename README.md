@@ -35,3 +35,4 @@
 # didipos2-addons
 # didipos2-addons
 # queuebos-addons
+# queuebos-addons
