@@ -36,3 +36,4 @@
 # didipos2-addons
 # queuebos-addons
 # queuebos-addons
+# hrhero-addons
