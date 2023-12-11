@@ -1,0 +1,24 @@
+version: '2'
+services:
+  web:
+    image: odoo:16.0
+    platform: linux/x86_64
+    user: root
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    volumes:
+      - ./config:/etc/odoo
+      - ./addons:/mnt/extra-addons
+      - ../odooapps:/mnt/odooapps
+      - ../field-service:/mnt/field-service
+  db:
+    image: postgres:13
+    platform: linux/x86_64
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_USER=odoo
